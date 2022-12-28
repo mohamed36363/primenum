@@ -1,0 +1,15 @@
+D:\discreteprime\bin\Debug\net6.0\discreteprime.exe
+D:\discreteprime\bin\Debug\net6.0\discreteprime.deps.json
+D:\discreteprime\bin\Debug\net6.0\discreteprime.runtimeconfig.json
+D:\discreteprime\bin\Debug\net6.0\discreteprime.dll
+D:\discreteprime\bin\Debug\net6.0\discreteprime.pdb
+D:\discreteprime\obj\Debug\net6.0\discreteprime.csproj.AssemblyReference.cache
+D:\discreteprime\obj\Debug\net6.0\discreteprime.GeneratedMSBuildEditorConfig.editorconfig
+D:\discreteprime\obj\Debug\net6.0\discreteprime.AssemblyInfoInputs.cache
+D:\discreteprime\obj\Debug\net6.0\discreteprime.AssemblyInfo.cs
+D:\discreteprime\obj\Debug\net6.0\discreteprime.csproj.CoreCompileInputs.cache
+D:\discreteprime\obj\Debug\net6.0\discreteprime.dll
+D:\discreteprime\obj\Debug\net6.0\refint\discreteprime.dll
+D:\discreteprime\obj\Debug\net6.0\discreteprime.pdb
+D:\discreteprime\obj\Debug\net6.0\discreteprime.genruntimeconfig.cache
+D:\discreteprime\obj\Debug\net6.0\ref\discreteprime.dll
